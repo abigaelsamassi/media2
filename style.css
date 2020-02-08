@@ -1,0 +1,38 @@
+main{
+	
+	background-image:url(assets/img/p.gif);
+}
+.div;{margin: 0 auto;
+	width: 50vw;
+}
+
+ul{
+   list-style-type: none;
+   margin:0px;
+   padding:0;
+}
+
+li{
+  float:left;
+  margin-left:40px;
+  margin-top:20px 
+}
+
+ul li a {
+  
+  float: left;
+  width:150px;
+  background-color:#e8b912;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding:5px;
+  border: 2px solid;
+  overflow:hidden;
+  display: block;
+} 
+ul li a:hover {
+  background-color:blue;
+
+  }
+
